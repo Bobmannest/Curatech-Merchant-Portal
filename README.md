@@ -10,7 +10,13 @@ The client interface is built using JavaFX delivering an intuitive and visually 
 
 [Mahir Tahmin](https://github.com/Mahir-Tahmin)  
 
-Yousuf Shaikh
+Yousuf Shaikh  
+
+Aleena Bhatti  
+
+Jubaydah Khanom  
+
+Shuaib Musa  
 
 ## Steps to run the program
 1) Make sure you are using Java SDK 17
