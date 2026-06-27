@@ -1,5 +1,5 @@
 # Curatech Merchant Portal
-This is the java code for the Curatech Merchant Portal.
+A full-stack, modular e-commerce and membership management application designed to simulate a real-world online pharmaceutical retail platform. The system is architected using a layered design approach with a Java-based backend that utilises Spring Boot to provide a robust and scalable RESTful API layer for application logic and additional service integration. The client interface is built using JavaFX delivering an intuitive and visually engaging desktop application experience with additional CSS applied to ensure a polished and easy to use user interface. The system integrates Google SMTP to enable reliable email-based communication and automated notifications and transactional messages. Additionally, a MySQL database is used to persistently store client data and transaction records in order to ensure reliable data storage and integrity across all operations.
 
 ## Credits
 [Omar Zaman](https://github.com/LostJuro)  
