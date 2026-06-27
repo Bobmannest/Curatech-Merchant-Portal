@@ -3,8 +3,11 @@ This is the java code for the Curatech Merchant Portal.
 
 ## Credits
 [Omar Zaman](https://github.com/LostJuro)  
+
 [Kalin Kuzev](https://github.com/Bobmannest)  
+
 [Mahir Tahmin](https://github.com/Mahir-Tahmin)  
+
 Yousuf Shaikh
 
 ## Steps to run the program
