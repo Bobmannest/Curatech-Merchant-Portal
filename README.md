@@ -4,19 +4,19 @@ A full-stack modular e-commerce and membership management application designed t
 The client interface is built using JavaFX delivering an intuitive and visually engaging desktop application experience with additional CSS applied to ensure a polished and easy to use user interface. The system integrates Google SMTP to enable reliable email-based communication and automated notifications and transactional messages. Additionally, a MySQL database is used to persistently store client data and transaction records in order to ensure reliable data storage and integrity across all operations.
 
 ## Credits
-[Omar Zaman](https://github.com/LostJuro)  
+[Omar Zaman](https://github.com/LostJuro) - Programmer, Tester
 
-[Kalin Kuzev](https://github.com/Bobmannest)  
+[Kalin Kuzev](https://github.com/Bobmannest) - Programmer, Tester, GUI Designer
 
-[Mahir Tahmin](https://github.com/Mahir-Tahmin)  
+[Mahir Tahmin](https://github.com/Mahir-Tahmin) - Programmer, Designer
 
-Yousuf Shaikh  
+Yousuf Shaikh - System Analyst, GUI Designer
 
-Aleena Bhatti  
+Jubaydah Khanom - Project Manager, System Analyst
 
-Jubaydah Khanom  
+Aleena Bhatti - Deputy Project Manager, System Analyst
 
-Shuaib Musa  
+Shuaib Musa - Tester, Designer
 
 ## Steps to run the program
 1) Make sure you are using Java SDK 17
