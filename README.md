@@ -2,10 +2,10 @@
 This is the java code for the Curatech Merchant Portal.
 
 ## Credits
-**Omar Zaman**
-**Kalin Kuzev**
-**Mahir Tahmin**
-**Yousuf Shaikh**
+**Omar Zaman**  
+**Kalin Kuzev**  
+**Mahir Tahmin**  
+**Yousuf Shaikh**  
 
 ## Steps to run the program
 1) Make sure you are using Java SDK 17
