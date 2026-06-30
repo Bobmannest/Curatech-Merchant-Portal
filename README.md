@@ -6,11 +6,11 @@ The client interface is built using JavaFX delivering an intuitive and visually 
 ## Credits
 [Omar Zaman](https://github.com/LostJuro) - Programmer, Tester
 
-[Kalin Kuzev](https://github.com/Bobmannest) - Programmer, Tester, GUI Designer
+[Kalin Kuzev](https://github.com/Bobmannest) - Programmer, Tester, UI Designer
 
 [Mahir Tahmin](https://github.com/Mahir-Tahmin) - Programmer, Designer
 
-Yousuf Shaikh - System Analyst, GUI Designer
+Yousuf Shaikh - System Analyst, UI Designer
 
 Jubaydah Khanom - Project Manager, System Analyst
 
